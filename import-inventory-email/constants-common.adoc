@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\import-inventory-email\constants-common.adoc
+// Generated at: 2025-10-12T08:02:18.278Z
